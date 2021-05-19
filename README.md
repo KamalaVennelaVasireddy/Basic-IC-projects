@@ -1,7 +1,7 @@
 # Basic-IC-projects
 Hardware based projects with no coding involved.
 -----------------------------------------------------------------------------------------
-PROJECT 1:
+PROJECT 1: STRESS METER
 -----------------------------------------------------------------------------------------
 AIM: To study the emotional state of a person in an electric format 
 
@@ -14,7 +14,7 @@ Objective:
 3.To study IC741
 
 ----------------------------------------------------------------------------------------
-PROJECT 2:
+PROJECT 2: DIGITAL CLOCK
 ----------------------------------------------------------------------------------------
 AIM : To design and implement a digital clock without any microcontroller.
 
